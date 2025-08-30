@@ -1,4 +1,4 @@
-# Appendix 2 – Trajectory Analysis (Normal Weight Patient Conditions)
+# Appendix 2: Trajectory Analysis (Normal Weight Patient Conditions)
 
 This repository contains the dataset and results associated with **Appendix 2** of the doctoral thesis:  
 *Kinematic Modeling, Trajectory Planning, and Machine Learning for Integrated C-arm Fluoroscopy and Operating Table Systems*.
